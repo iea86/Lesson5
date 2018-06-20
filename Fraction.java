@@ -27,7 +27,7 @@ public class Fraction {
         return d;
     }
 
-    public void setDivider(int d) {
+    public void setD(int d) {
         this.d = d;
     }
 
